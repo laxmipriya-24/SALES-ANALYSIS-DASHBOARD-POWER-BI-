@@ -1,26 +1,43 @@
-STEPS IN PROJECT
+STEPS IN PROJECT:
+
 	Requirement gathering/ Business Requirements
+
 	Data Walkthrough
+
 	Data Connection
+
 	Data Cleaning 
+
 	Data Modeling
+
 	Data Processing
+
 	DAX Calculations
+
 	Dashboard Lay outing
+
 	Charts Development and Formatting
+
 	Dashboard/ Report Development
+
 	Insights Generation
 
-REQUIREMENTS
+REQUIREMENTS:
+
 To conduct a comprehensive analysis of blinkit sales performance, customer satisfaction, and inventory distribution to identity key insights and opportunities for optimization using various KPIs and visualization in Power BI.
 
-KPI’s Requirements
+KPI’s Requirements:
+
 1.Total Sales: The overall revenue generated from all items sold.
+
 1.Average Sales: The average revenue per scale.
+
 3.Number of Items: The total count of different items sold.
+
 4.Average Rating: The average customer rating for items sold.
 
-Chart’s Requirements
+Chart’s Requirements:
+
 1.Total sales by fat content:
             Objective: Analyze the impact of fat content on total sales.
             Additional KPI Metrics: Assess how other KPI’s (Average Sales, Number of items, Average Rating) vary with fat content.
